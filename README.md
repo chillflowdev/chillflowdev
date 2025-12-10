@@ -85,7 +85,3 @@ Udemy 講座をベースに、実際に動作するアプリとして構築し�
   → https://github.com/chillflowdev/typescript-timer-control-app
 
 ---
-
-## 📫 Contact
-GitHub: https://github.com/chillflowdev  
-（ご興味を持っていただけた企業様は、お気軽にご連絡ください）

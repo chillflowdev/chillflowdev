@@ -33,6 +33,8 @@ Udemyの実践的な講座を通じて、実際に手を動かしながら
 - Tailwind CSS
 - UI / UX
 
+---
+
 ## 📚 学習ポートフォリオ / Learning Projects
 
 Udemy 講座をベースに、実際に動作するアプリとして構築したものです。  

@@ -1,8 +1,7 @@
 # 👋 はじめまして、金昇宇と申します。
 
 バックエンドエンジニアとしてキャリアを積みつつ、
-フロントエンドでは JavaScript / CSS / HTML を用いた画面開発に
-3年携わってきました。
+フロントエンドでは JavaScript / CSS / HTML を用いた画面開発に3年携わってきました。
 
 現在は、よりモダンなフロントエンド技術（React / Next.js / TypeScript）を
 体系的に学び、フルスタックエンジニアとしてのスキル拡張に取り組んでいます。
@@ -32,7 +31,7 @@ Udemy の実践的な講座を通じて、実際に手を動かしながら
 - Next.js（App Router）
 - TypeScript
 - Tailwind CSS
-- UI/UX
+- UI / UX
 
 ## 📚 学習ポートフォリオ / Learning Projects
 
